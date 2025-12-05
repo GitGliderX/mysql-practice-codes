@@ -1,4 +1,4 @@
-📊 MySQL Practice for Data Analytics
+**#MySQL Practice for Data Analytics**
 
 A collection of SQL practice queries, datasets, and exercises built to strengthen my skills in data analytics.
 
