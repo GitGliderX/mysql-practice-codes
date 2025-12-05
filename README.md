@@ -1,20 +1,52 @@
-# MySQL Practice for Data Analytics
+📊 MySQL Practice for Data Analytics
 
-This repository contains my MySQL learning files, queries, and practice exercises.
+A collection of SQL practice queries, datasets, and exercises built to strengthen my skills in data analytics.
 
-## 📘 Topics Covered
-- Basic SQL Queries
-- SELECT, WHERE, ORDER BY
-- JOINS (Inner, Left, Right)
-- GROUP BY & Aggregations
-- Subqueries
-- Creating tables
-- Case statements & functions
+🔍 About This Repository
 
-## 📁 Files Included
-- `query1.sql` – Basic SELECT queries  
-- `joins.sql` – Join practice  
-- `aggregation.sql` – Group BY, SUM, COUNT  
-- `notes.txt` – My personal SQL notes
+This repository contains MySQL practice designed to improve skills required for Data Analyst roles.
+It includes:
 
-More files will be added as I learn and practice.
+SQL queries for analytics scenarios
+
+Sample datasets
+
+Table creation scripts
+
+Practice problems with solutions
+
+Clean, well-commented code for learning & showcasing skills
+
+More content will be added as I continue my learning.
+
+
+🧰 Topics Covered
+✔ SQL Basics
+
+SELECT, WHERE, ORDER BY
+
+DISTINCT, LIMIT
+
+Basic filtering
+
+✔ Aggregate Functions
+
+COUNT, SUM, AVG, MIN, MAX
+
+GROUP BY & HAVING
+
+✔ Joins
+
+INNER JOIN
+
+LEFT/RIGHT JOIN
+
+FULL JOIN (simulated in MySQL)
+
+✔ Subqueries
+
+Scalar subqueries
+
+IN / NOT IN
+
+EXISTS
