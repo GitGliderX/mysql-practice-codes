@@ -1,0 +1,11 @@
+emp_id,emp_name,age,gender,department,role,salary,join_date
+1,Rahul Verma,29,Male,Sales,Sales Executive,35000,2020-03-10
+2,Anita Shetty,34,Female,HR,HR Manager,55000,2018-06-15
+3,Siddharth Rao,26,Male,IT,Software Engineer,45000,2021-01-05
+4,Neha Kapoor,31,Female,Finance,Accountant,40000,2019-09-20
+5,Amit Joshi,45,Male,Sales,Senior Sales Manager,70000,2015-11-01
+6,Kiran Patil,28,Female,IT,Data Analyst,50000,2020-08-12
+7,Vivek Shah,39,Male,Finance,Financial Analyst,60000,2017-04-18
+8,Sneha Gupta,25,Female,IT,Junior Developer,30000,2022-02-10
+9,Rohan Kulkarni,33,Male,Operations,Operations Executive,38000,2019-07-22
+10,Pooja Desai,30,Female,HR,HR Executive,32000,2021-10-15
